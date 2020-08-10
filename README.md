@@ -1,2 +1,6 @@
 # START-UP
-WASSUP HOMIES ... ITS GUARDIAN HERE 🕵️.........The Tool Start-up is made for beigners who want to install basic packages........hope u guyz like this......... GUaRdiAn Always there to help
+First of clone the repo
+$ ``git clone https://github.com/D-GuArdiAn/START-UP.git``
+$ ``cd START-UP``
+$ ``bash Start-Up.sh``
+
