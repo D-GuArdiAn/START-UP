@@ -72,7 +72,8 @@ elif [[ $ch -eq '4' || $ch -eq '04' ]];then
 clear
 echo " updating and upgrading..."
 echo -e "\e[1;32m"
-apt update && upgrade
+apt update 
+apt upgrade
 figlet -f future GuArdiAn Always there to help! | lolcat
 exit 0
 
